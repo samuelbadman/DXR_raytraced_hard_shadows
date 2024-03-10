@@ -1,5 +1,7 @@
 # DXR raytraced hard shadows
 
+<img src="ReadmeContent/DXRShadowsScreenshot.png" alt="DXR shadows screenshot" width="480" height="270"><br>
+
 ## Requirements
 Windows 10 and a GPU that supports Direct3D12 and DirectX Raytracing is required.
 
